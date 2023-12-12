@@ -1,3 +1,6 @@
-2023/12/12-07:38:58.843 4 Reusing MANIFEST /home/jim/.config/google-chrome/Default/Local Storage/leveldb/MANIFEST-000001
-2023/12/12-07:38:58.847 4 Recovering log #61
-2023/12/12-07:38:58.848 4 Reusing old log /home/jim/.config/google-chrome/Default/Local Storage/leveldb/000061.log 
+2023/12/12-08:48:26.400 4 Reusing MANIFEST /home/jim/.config/google-chrome/Default/Local Storage/leveldb/MANIFEST-000001
+2023/12/12-08:48:26.404 4 Recovering log #61
+2023/12/12-08:48:26.405 4 Reusing old log /home/jim/.config/google-chrome/Default/Local Storage/leveldb/000061.log 
+2023/12/12-08:55:07.571 6 Level-0 table #66: started
+2023/12/12-08:55:07.572 6 Level-0 table #66: 17870 bytes OK
+2023/12/12-08:55:07.577 6 Delete type=0 #61

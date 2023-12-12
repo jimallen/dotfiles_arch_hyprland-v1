@@ -1,3 +1,6 @@
-2023/12/12-08:34:23.108 119f Reusing MANIFEST /home/jim/.config/google-chrome/Default/Sync Data/LevelDB/MANIFEST-000001
-2023/12/12-08:34:23.109 119f Recovering log #44
-2023/12/12-08:34:23.109 119f Reusing old log /home/jim/.config/google-chrome/Default/Sync Data/LevelDB/000044.log 
+2023/12/12-19:32:09.366 2ba6 Reusing MANIFEST /home/jim/.config/google-chrome/Default/Sync Data/LevelDB/MANIFEST-000001
+2023/12/12-19:32:09.367 2ba6 Recovering log #44
+2023/12/12-19:32:09.368 2ba6 Reusing old log /home/jim/.config/google-chrome/Default/Sync Data/LevelDB/000044.log 
+2023/12/12-19:33:33.366 2ba9 Level-0 table #48: started
+2023/12/12-19:33:33.401 2ba9 Level-0 table #48: 1773722 bytes OK
+2023/12/12-19:33:33.403 2ba9 Delete type=0 #44
