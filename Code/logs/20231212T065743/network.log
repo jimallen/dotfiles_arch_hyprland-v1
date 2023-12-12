@@ -1,0 +1,10 @@
+2023-12-12 06:57:45.085 [error] electron #1: https://az764295.vo.msecnd.net/extensions/marketplace.json - error GET net::ERR_INTERNET_DISCONNECTED
+2023-12-12 06:57:45.557 [error] electron #2: https://update.code.visualstudio.com/api/update/linux-x64/stable/af28b32d7e553898b2a91af498b1fb666fdebe0c - error undefined net::ERR_INTERNET_DISCONNECTED
+2023-12-12 06:57:47.095 [error] electron #3: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_INTERNET_DISCONNECTED
+2023-12-12 06:57:47.246 [error] electron #4: https://update.code.visualstudio.com/api/update/linux-x64/stable/af28b32d7e553898b2a91af498b1fb666fdebe0c - error undefined net::ERR_INTERNET_DISCONNECTED
+2023-12-12 06:57:49.184 [error] electron #5: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_INTERNET_DISCONNECTED
+2023-12-12 06:57:50.270 [error] electron #6: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_INTERNET_DISCONNECTED
+2023-12-12 06:57:52.255 [error] electron #7: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_INTERNET_DISCONNECTED
+2023-12-12 06:58:04.372 [error] electron #8: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_INTERNET_DISCONNECTED
+2023-12-12 06:58:07.539 [error] electron #9: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_INTERNET_DISCONNECTED
+2023-12-12 06:58:13.682 [error] electron #10: https://update.code.visualstudio.com/api/update/linux-x64/stable/af28b32d7e553898b2a91af498b1fb666fdebe0c - error undefined net::ERR_INTERNET_DISCONNECTED

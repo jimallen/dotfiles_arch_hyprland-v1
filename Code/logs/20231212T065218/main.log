@@ -1,0 +1,15 @@
+2023-12-12 06:52:18.385 [info] update#setState idle
+2023-12-12 06:52:20.179 [error] update#isLatestVersion(): failed to check for updates
+2023-12-12 06:52:20.180 [error] Error: net::ERR_INTERNET_DISCONNECTED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:49876)
+    at SimpleURLLoaderWrapper.emit (node:events:513:28)
+2023-12-12 06:52:21.945 [error] update#isLatestVersion(): failed to check for updates
+2023-12-12 06:52:21.945 [error] Error: net::ERR_INTERNET_DISCONNECTED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:49876)
+    at SimpleURLLoaderWrapper.emit (node:events:513:28)
+2023-12-12 06:52:48.386 [info] update#setState checking for updates
+2023-12-12 06:52:48.392 [error] Error: net::ERR_INTERNET_DISCONNECTED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:49876)
+    at SimpleURLLoaderWrapper.emit (node:events:513:28)
+2023-12-12 06:52:48.392 [info] update#setState idle
+2023-12-12 06:57:38.586 [info] Extension host with pid 6259 exited with code: 0, signal: unknown.

@@ -1,0 +1,19 @@
+2023-12-11 21:32:03.172 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2023-12-11 21:32:03.172 [info] Experiment 'pythonREPLSmartSend' is active
+2023-12-11 21:32:03.172 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2023-12-11 21:32:03.172 [info] Experiment 'pythonTestAdapter' is active
+2023-12-11 21:32:03.172 [info] Default formatter is set to null for workspace /home/jim/.config
+2023-12-11 21:32:03.172 [info] Test server listening.
+2023-12-11 21:32:03.172 [info] Python interpreter path: /bin/python
+2023-12-11 21:32:03.179 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2023-12-11 21:32:03.179 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2023-12-11 21:32:03.179 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2023-12-11 21:32:03.179 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2023-12-11 21:32:03.231 [info] > /bin/python -I ~/.vscode/extensions/ms-python.python-2023.22.0/pythonFiles/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2023.22.0/pythonFiles/interpreterInfo.py
+2023-12-11 21:32:03.325 [info] Send text to terminal: echo /usr/bin/zsh
+2023-12-11 21:32:05.231 [info] Starting Pylance language server.
+2023-12-11 21:32:06.325 [info] Shell integration is not working for zsh
+2023-12-11 21:32:06.327 [warning] Shell integration is not active, environment activated maybe overriden by the shell.
+2023-12-11 21:32:31.328 [info] Discover tests for workspace name: .config - uri: /home/jim/.config/hypr/scripts/Weather.py
+2023-12-11 21:35:09.410 [info] Discover tests for workspace name: .config - uri: /home/jim/.config/hypr/scripts/Weather.py
+2023-12-11 21:35:13.343 [info] Discover tests for workspace name: .config - uri: /home/jim/.config/hypr/scripts/Weather.py

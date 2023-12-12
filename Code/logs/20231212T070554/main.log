@@ -1,0 +1,16 @@
+2023-12-12 07:05:54.306 [info] update#setState idle
+2023-12-12 07:05:56.141 [error] update#isLatestVersion(): failed to check for updates
+2023-12-12 07:05:56.141 [error] Error: net::ERR_INTERNET_DISCONNECTED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:49876)
+    at SimpleURLLoaderWrapper.emit (node:events:513:28)
+2023-12-12 07:05:57.808 [error] update#isLatestVersion(): failed to check for updates
+2023-12-12 07:05:57.808 [error] Error: net::ERR_INTERNET_DISCONNECTED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:49876)
+    at SimpleURLLoaderWrapper.emit (node:events:513:28)
+2023-12-12 07:06:24.307 [info] update#setState checking for updates
+2023-12-12 07:06:24.311 [error] Error: net::ERR_INTERNET_DISCONNECTED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:49876)
+    at SimpleURLLoaderWrapper.emit (node:events:513:28)
+2023-12-12 07:06:24.312 [info] update#setState idle
+2023-12-12 07:06:36.064 [error] [UtilityProcess id: 1, type: fileWatcher, pid: 2192]: crashed with code 15 and reason 'killed'
+2023-12-12 07:06:36.121 [info] Extension host with pid 2181 exited with code: 0, signal: unknown.

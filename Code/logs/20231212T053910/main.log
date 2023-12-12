@@ -1,0 +1,5 @@
+2023-12-12 05:39:10.698 [info] update#setState idle
+2023-12-12 05:39:40.699 [info] update#setState checking for updates
+2023-12-12 05:39:40.738 [info] update#setState idle
+2023-12-12 05:41:08.320 [info] Extension host with pid 14680 exited with code: 0, signal: unknown.
+2023-12-12 05:41:08.322 [error] [UtilityProcess id: 1, type: extensionHost, pid: 14680]: crashed with code 15 and reason 'killed'

@@ -1,0 +1,2 @@
+2023-12-12 07:05:57.747 [error] browser #1: https://marketplace.visualstudio.com/_apis/public/gallery/extensionquery - error POST Offline
+2023-12-12 07:05:58.245 [error] browser #2: https://vscode-sync.trafficmanager.net/v1/resource/editSessions/latest - error GET Offline

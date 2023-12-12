@@ -1,0 +1,4 @@
+2023/12/12-06:13:56.628 6b6 Reusing MANIFEST /home/jim/.config/Slack/IndexedDB/https_app.slack.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/12/12-06:13:56.628 6b6 Recovering log #21
+2023/12/12-06:13:56.628 6b6 Reusing old log /home/jim/.config/Slack/IndexedDB/https_app.slack.com_0.indexeddb.leveldb/000021.log 
+2023/12/12-06:13:56.628 6b6 Delete type=2 #19

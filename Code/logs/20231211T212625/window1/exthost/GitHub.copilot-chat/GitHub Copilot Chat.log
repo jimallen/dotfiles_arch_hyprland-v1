@@ -1,0 +1,12 @@
+2023-12-11 21:26:28.682 [info] [gitExtensionService] Initializing Git extension service.
+2023-12-11 21:26:28.682 [info] [gitExtensionService] Successfully activated the vscode.git extension.
+2023-12-11 21:26:28.682 [info] [gitExtensionService] Enablement state of the vscode.git extension: true.
+2023-12-11 21:26:28.682 [info] [gitExtensionService] Successfully registered Git commit message provider.
+2023-12-11 21:26:29.028 [info] [auth] Logged in as jimallen
+2023-12-11 21:26:29.595 [info] [chat] copilot token chat_enabled: true
+2023-12-11 21:26:29.595 [info] [githubTitleAndDescriptionProvider] Initializing GitHub PR title and description provider provider.
+2023-12-11 21:26:29.595 [info] [githubTitleAndDescriptionProvider] GitHub.vscode-pull-request-github extension is not yet activated.
+2023-12-11 21:26:29.595 [info] [auth] Got Copilot token for jimallen
+2023-12-11 21:26:29.645 [info] [auth] Logged in as jimallen
+2023-12-11 21:26:29.646 [info] [chat] copilot token chat_enabled: true
+2023-12-11 21:26:29.646 [info] [auth] Got Copilot token for jimallen

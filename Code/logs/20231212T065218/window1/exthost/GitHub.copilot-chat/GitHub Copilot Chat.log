@@ -1,0 +1,6 @@
+2023-12-12 06:52:21.697 [info] [gitExtensionService] Initializing Git extension service.
+2023-12-12 06:52:21.697 [info] [gitExtensionService] Successfully activated the vscode.git extension.
+2023-12-12 06:52:21.697 [info] [gitExtensionService] Enablement state of the vscode.git extension: true.
+2023-12-12 06:52:21.697 [info] [gitExtensionService] Successfully registered Git commit message provider.
+2023-12-12 06:52:21.715 [info] [auth] Logged in as jimallen
+2023-12-12 06:52:21.887 [info] [extension] GitHub Copilot could not connect to server. Extension activation failed: "getaddrinfo EAI_AGAIN api.github.com"

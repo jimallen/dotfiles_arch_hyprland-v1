@@ -1,0 +1,95 @@
+[6242:1211/202017.717807:WARNING:wayland_object.cc(152)] Binding to zwp_linux_dmabuf_v1 version 3 but version 4 is available.
+[6242:1211/202017.717954:WARNING:wayland_object.cc(152)] Binding to zwp_pointer_gestures_v1 version 1 but version 3 is available.
+[6242:1211/202017.847784:ERROR:object_proxy.cc(623)] Failed to call method: org.freedesktop.DBus.Properties.Get: object_path= /org/freedesktop/portal/desktop: org.freedesktop.DBus.Error.InvalidArgs: No such interface “org.freedesktop.portal.FileChooser”
+[6242:1211/202017.848152:WARNING:property.cc(144)] version: GetAndBlock: failed.
+[6242:1211/202017.848193:ERROR:select_file_dialog_linux_portal.cc(274)] Failed to read portal version property
+[6242:1211/202018.008996:WARNING:bluez_dbus_manager.cc(247)] Floss manager not present, cannot set Floss enable/disable.
+[6242:1211/202018.085540:WARNING:wayland_surface.cc(149)] Server doesn't support zcr_alpha_compositing_v1.
+[6242:1211/202018.085568:WARNING:wayland_surface.cc(164)] Server doesn't support overlay_prioritizer.
+[6242:1211/202018.085574:WARNING:wayland_surface.cc(178)] Server doesn't support surface_augmenter.
+[6242:1211/202018.085579:WARNING:wayland_surface.cc(193)] Server doesn't support wp_content_type_v1
+[6242:1211/202018.085584:WARNING:wayland_surface.cc(212)] Server doesn't support zcr_color_management_surface.
+[6242:1211/202018.085842:WARNING:cursor_loader.cc(123)] Failed to load a platform cursor of type kNull
+[6242:1211/202029.854417:WARNING:org_gnome_mutter_idle_monitor.cc(95)] org.gnome.Mutter.IdleMonitor D-Bus service does not exist
+[4094:1212/052725.869710:WARNING:wayland_object.cc(152)] Binding to zwp_linux_dmabuf_v1 version 3 but version 4 is available.
+[4094:1212/052725.869886:WARNING:wayland_object.cc(152)] Binding to zwp_pointer_gestures_v1 version 1 but version 3 is available.
+[4094:1212/052725.944176:ERROR:object_proxy.cc(623)] Failed to call method: org.freedesktop.DBus.Properties.Get: object_path= /org/freedesktop/portal/desktop: org.freedesktop.DBus.Error.InvalidArgs: No such interface “org.freedesktop.portal.FileChooser”
+[4094:1212/052725.944200:WARNING:property.cc(144)] version: GetAndBlock: failed.
+[4094:1212/052725.944210:ERROR:select_file_dialog_linux_portal.cc(274)] Failed to read portal version property
+[4094:1212/052726.075611:WARNING:bluez_dbus_manager.cc(247)] Floss manager not present, cannot set Floss enable/disable.
+[4094:1212/052726.127623:WARNING:wayland_surface.cc(149)] Server doesn't support zcr_alpha_compositing_v1.
+[4094:1212/052726.127645:WARNING:wayland_surface.cc(164)] Server doesn't support overlay_prioritizer.
+[4094:1212/052726.127653:WARNING:wayland_surface.cc(178)] Server doesn't support surface_augmenter.
+[4094:1212/052726.127657:WARNING:wayland_surface.cc(193)] Server doesn't support wp_content_type_v1
+[4094:1212/052726.127661:WARNING:wayland_surface.cc(212)] Server doesn't support zcr_color_management_surface.
+[4094:1212/052726.127879:WARNING:cursor_loader.cc(123)] Failed to load a platform cursor of type kNull
+[4094:1212/052736.433825:WARNING:org_gnome_mutter_idle_monitor.cc(95)] org.gnome.Mutter.IdleMonitor D-Bus service does not exist
+[11916:1212/053237.800834:ERROR:object_proxy.cc(590)] Failed to call method: org.freedesktop.DBus.Properties.Get: object_path= /org/freedesktop/portal/desktop: org.freedesktop.DBus.Error.InvalidArgs: No such interface “org.freedesktop.portal.FileChooser”
+[11916:1212/053237.801025:WARNING:property.cc(144)] version: GetAndBlock: failed.
+[11916:1212/053237.801098:ERROR:select_file_dialog_linux_portal.cc(274)] Failed to read portal version property
+[11916:1212/053237.942981:WARNING:bluez_dbus_manager.cc(247)] Floss manager not present, cannot set Floss enable/disable.
+[11916:1212/053237.943223:ERROR:object_proxy.cc(590)] Failed to call method: org.freedesktop.portal.Settings.Read: object_path= /org/freedesktop/portal/desktop: org.freedesktop.DBus.Error.UnknownMethod: No such interface “org.freedesktop.portal.Settings” on object at path /org/freedesktop/portal/desktop
+[11916:1212/053239.952596:ERROR:service_worker_storage.cc(2016)] Failed to delete the database: Database IO error
+[12625:1212/053336.958395:ERROR:object_proxy.cc(590)] Failed to call method: org.freedesktop.DBus.Properties.Get: object_path= /org/freedesktop/portal/desktop: org.freedesktop.DBus.Error.InvalidArgs: No such interface “org.freedesktop.portal.FileChooser”
+[12625:1212/053336.958764:WARNING:property.cc(144)] version: GetAndBlock: failed.
+[12625:1212/053336.958773:ERROR:select_file_dialog_linux_portal.cc(274)] Failed to read portal version property
+[12625:1212/053337.074787:WARNING:bluez_dbus_manager.cc(247)] Floss manager not present, cannot set Floss enable/disable.
+[12625:1212/053337.074970:ERROR:object_proxy.cc(590)] Failed to call method: org.freedesktop.portal.Settings.Read: object_path= /org/freedesktop/portal/desktop: org.freedesktop.DBus.Error.UnknownMethod: No such interface “org.freedesktop.portal.Settings” on object at path /org/freedesktop/portal/desktop
+[12625:1212/053339.105286:ERROR:service_worker_storage.cc(2016)] Failed to delete the database: Database IO error
+[12625:1212/053344.776411:ERROR:quota_database.cc(939)] Could not open the quota database, resetting.
+[12948:1212/053419.755512:ERROR:object_proxy.cc(590)] Failed to call method: org.freedesktop.DBus.Properties.Get: object_path= /org/freedesktop/portal/desktop: org.freedesktop.DBus.Error.InvalidArgs: No such interface “org.freedesktop.portal.FileChooser”
+[12948:1212/053419.755706:WARNING:property.cc(144)] version: GetAndBlock: failed.
+[12948:1212/053419.755715:ERROR:select_file_dialog_linux_portal.cc(274)] Failed to read portal version property
+[12948:1212/053419.903425:WARNING:bluez_dbus_manager.cc(247)] Floss manager not present, cannot set Floss enable/disable.
+[12948:1212/053419.903581:ERROR:object_proxy.cc(590)] Failed to call method: org.freedesktop.portal.Settings.Read: object_path= /org/freedesktop/portal/desktop: org.freedesktop.DBus.Error.UnknownMethod: No such interface “org.freedesktop.portal.Settings” on object at path /org/freedesktop/portal/desktop
+[12948:1212/053421.922533:ERROR:service_worker_storage.cc(2016)] Failed to delete the database: Database IO error
+[12948:1212/053427.500278:ERROR:quota_database.cc(939)] Could not open the quota database, resetting.
+[13920:1212/053738.346655:ERROR:object_proxy.cc(590)] Failed to call method: org.freedesktop.DBus.Properties.Get: object_path= /org/freedesktop/portal/desktop: org.freedesktop.DBus.Error.InvalidArgs: No such interface “org.freedesktop.portal.FileChooser”
+[13920:1212/053738.346791:WARNING:property.cc(144)] version: GetAndBlock: failed.
+[13920:1212/053738.346798:ERROR:select_file_dialog_linux_portal.cc(274)] Failed to read portal version property
+[13920:1212/053738.488570:WARNING:bluez_dbus_manager.cc(247)] Floss manager not present, cannot set Floss enable/disable.
+[13920:1212/053738.488830:ERROR:object_proxy.cc(590)] Failed to call method: org.freedesktop.portal.Settings.Read: object_path= /org/freedesktop/portal/desktop: org.freedesktop.DBus.Error.UnknownMethod: No such interface “org.freedesktop.portal.Settings” on object at path /org/freedesktop/portal/desktop
+[13920:1212/053740.511369:ERROR:service_worker_storage.cc(2016)] Failed to delete the database: Database IO error
+[13920:1212/053745.891026:ERROR:quota_database.cc(939)] Could not open the quota database, resetting.
+[1044:1212/055113.587604:ERROR:object_proxy.cc(590)] Failed to call method: org.freedesktop.DBus.Properties.Get: object_path= /org/freedesktop/portal/desktop: org.freedesktop.DBus.Error.InvalidArgs: No such interface “org.freedesktop.portal.FileChooser”
+[1044:1212/055113.590979:WARNING:property.cc(144)] version: GetAndBlock: failed.
+[1044:1212/055113.590994:ERROR:select_file_dialog_linux_portal.cc(274)] Failed to read portal version property
+[1044:1212/055113.709844:WARNING:bluez_dbus_manager.cc(247)] Floss manager not present, cannot set Floss enable/disable.
+[1044:1212/055113.715301:ERROR:object_proxy.cc(590)] Failed to call method: org.freedesktop.portal.Settings.Read: object_path= /org/freedesktop/portal/desktop: org.freedesktop.DBus.Error.UnknownMethod: No such interface “org.freedesktop.portal.Settings” on object at path /org/freedesktop/portal/desktop
+[1707:1212/061356.404693:ERROR:object_proxy.cc(590)] Failed to call method: org.freedesktop.DBus.Properties.Get: object_path= /org/freedesktop/portal/desktop: org.freedesktop.DBus.Error.InvalidArgs: No such interface “org.freedesktop.portal.FileChooser”
+[1707:1212/061356.408248:WARNING:property.cc(144)] version: GetAndBlock: failed.
+[1707:1212/061356.408265:ERROR:select_file_dialog_linux_portal.cc(274)] Failed to read portal version property
+[1707:1212/061356.504915:WARNING:bluez_dbus_manager.cc(247)] Floss manager not present, cannot set Floss enable/disable.
+[1707:1212/061356.510326:ERROR:object_proxy.cc(590)] Failed to call method: org.freedesktop.portal.Settings.Read: object_path= /org/freedesktop/portal/desktop: org.freedesktop.DBus.Error.UnknownMethod: No such interface “org.freedesktop.portal.Settings” on object at path /org/freedesktop/portal/desktop
+[1780:1212/061447.451814:WARNING:spdy_session.cc(3223)] Received RST for invalid stream53
+[1780:1212/061447.453357:WARNING:spdy_session.cc(3223)] Received RST for invalid stream55
+[1780:1212/061447.454412:WARNING:spdy_session.cc(3223)] Received RST for invalid stream63
+[1780:1212/061448.442821:ERROR:ssl_client_socket_impl.cc(978)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1780:1212/061448.453698:ERROR:ssl_client_socket_impl.cc(978)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1780:1212/061448.454299:ERROR:ssl_client_socket_impl.cc(978)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1780:1212/061448.459395:ERROR:ssl_client_socket_impl.cc(978)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1780:1212/061448.984435:WARNING:spdy_session.cc(3223)] Received RST for invalid stream61
+[1780:1212/061448.985300:WARNING:spdy_session.cc(3223)] Received RST for invalid stream71
+[1780:1212/061448.986119:WARNING:spdy_session.cc(3223)] Received RST for invalid stream69
+[1780:1212/061448.986953:WARNING:spdy_session.cc(3223)] Received RST for invalid stream59
+[1780:1212/061448.988069:WARNING:spdy_session.cc(3223)] Received RST for invalid stream65
+[1780:1212/061448.990518:WARNING:spdy_session.cc(3223)] Received RST for invalid stream77
+[1780:1212/061448.991859:WARNING:spdy_session.cc(3223)] Received RST for invalid stream73
+[1780:1212/061448.993059:WARNING:spdy_session.cc(3223)] Received RST for invalid stream79
+[1780:1212/061448.994449:WARNING:spdy_session.cc(3223)] Received RST for invalid stream75
+[1780:1212/061448.995558:WARNING:spdy_session.cc(3223)] Received RST for invalid stream57
+[1780:1212/061448.996534:WARNING:spdy_session.cc(3223)] Received RST for invalid stream67
+[1780:1212/061457.148512:WARNING:spdy_session.cc(3491)] Received HEADERS for invalid stream 7
+[1780:1212/061457.148645:WARNING:spdy_session.cc(3491)] Received HEADERS for invalid stream 9
+[1780:1212/061503.338812:WARNING:spdy_session.cc(3491)] Received HEADERS for invalid stream 11
+[3617:1212/071031.808141:ERROR:object_proxy.cc(590)] Failed to call method: org.freedesktop.DBus.Properties.Get: object_path= /org/freedesktop/portal/desktop: org.freedesktop.DBus.Error.InvalidArgs: No such interface “org.freedesktop.portal.FileChooser”
+[3617:1212/071031.808359:WARNING:property.cc(144)] version: GetAndBlock: failed.
+[3617:1212/071031.808372:ERROR:select_file_dialog_linux_portal.cc(274)] Failed to read portal version property
+[3617:1212/071031.930899:WARNING:bluez_dbus_manager.cc(247)] Floss manager not present, cannot set Floss enable/disable.
+[3617:1212/071031.931298:ERROR:object_proxy.cc(590)] Failed to call method: org.freedesktop.portal.Settings.Read: object_path= /org/freedesktop/portal/desktop: org.freedesktop.DBus.Error.UnknownMethod: No such interface “org.freedesktop.portal.Settings” on object at path /org/freedesktop/portal/desktop
+[4066:1212/071215.306608:ERROR:object_proxy.cc(590)] Failed to call method: org.freedesktop.DBus.Properties.Get: object_path= /org/freedesktop/portal/desktop: org.freedesktop.DBus.Error.InvalidArgs: No such interface “org.freedesktop.portal.FileChooser”
+[4066:1212/071215.306769:WARNING:property.cc(144)] version: GetAndBlock: failed.
+[4066:1212/071215.306784:ERROR:select_file_dialog_linux_portal.cc(274)] Failed to read portal version property
+[4066:1212/071215.419272:WARNING:bluez_dbus_manager.cc(247)] Floss manager not present, cannot set Floss enable/disable.
+[4066:1212/071215.419410:ERROR:object_proxy.cc(590)] Failed to call method: org.freedesktop.portal.Settings.Read: object_path= /org/freedesktop/portal/desktop: org.freedesktop.DBus.Error.UnknownMethod: No such interface “org.freedesktop.portal.Settings” on object at path /org/freedesktop/portal/desktop
+[4066:1212/071217.446934:ERROR:service_worker_storage.cc(2016)] Failed to delete the database: Database IO error
